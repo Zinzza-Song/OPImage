@@ -1,0 +1,20 @@
+﻿  ChildFrm.cpp
+  Gamma.cpp
+Gamma.cpp(49): warning C4244: '인수': 'double'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Gamma.cpp(83): warning C4244: '인수': 'double'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainFrm.cpp
+MainFrm.cpp(96): error C2039: 'SetStatusBarText': 'CMainFrame'의 멤버가 아닙니다.
+  c:\users\a\documents\visual studio 2015\projects\opimgae\opimgae\MainFrm.h(8): note: 'CMainFrame' 선언을 참조하십시오.
+MainFrm.cpp(98): error C2065: 'm_wndStatusBar': 선언되지 않은 식별자입니다.
+MainFrm.cpp(98): error C2228: '.SetPaneText' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  MainFrm.cpp(98): note: 'unknown-type' 형식입니다.
+MainFrm.cpp(99): error C2065: 'm_wndStatusBar': 선언되지 않은 식별자입니다.
+MainFrm.cpp(99): error C2228: '.Invalidate' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  MainFrm.cpp(99): note: 'unknown-type' 형식입니다.
+  OPimgae.cpp
+  OPimgaeDoc.cpp
+OPimgaeDoc.cpp(325): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OPimgaeView.cpp
+OPimgaeView.cpp(82): error C2039: 'SetStatusBarText': 'CMainFrame'의 멤버가 아닙니다.
+  c:\users\a\documents\visual studio 2015\projects\opimgae\opimgae\MainFrm.h(8): note: 'CMainFrame' 선언을 참조하십시오.
+  Splash.cpp
